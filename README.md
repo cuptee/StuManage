@@ -1,0 +1,2 @@
+# StuManage
+Students Management
